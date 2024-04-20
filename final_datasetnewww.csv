@@ -5,7 +5,7 @@ Age,Gender,Blood Type,Medical Condition,Medication,Test Results
 51,Male,O-,Arthritis,Paracetamol,Normal
 41,Male,AB+,Arthritis,Aspirin,Abnormal
 82,Male,AB+,Hypertension,Lipitor,Abnormal
-55,Female,O-,Arthritis,Aspirin,Normal
+55,Female,O-,Arthritis,Aspirin,Normal 
 33,Male,A+,Diabetes,Aspirin,Abnormal
 39,Female,O-,Asthma,Aspirin,Normal
 45,Male,B-,Cancer,Penicillin,Abnormal
